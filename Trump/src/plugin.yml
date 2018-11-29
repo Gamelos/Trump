@@ -1,0 +1,14 @@
+name: Trump
+version: 1.0
+author: Gamelos
+
+main: de.gamelos.trump.Main
+
+commands:
+  trump:
+  start:
+  promote:
+  forcemap:
+  stats:
+  shop:
+   aliases: [s]
